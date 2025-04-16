@@ -53,7 +53,7 @@ I tried to imagine how the HR department at Dunder Mifflin might structure and m
 
 ## SQL Queries
 
-This project includes essential SQL techniques such as:
+Here, I demonstrate how different SQL commands can be used to find key company metrics. To achieve this, I’ll be utilizing the following commands:
 
 - `JOIN`
 - `WINDOW FUNCTIONS`
@@ -62,11 +62,11 @@ This project includes essential SQL techniques such as:
 - `HAVING`
 - `UNION`
 
-These queries aim to:
+Using SQL queries, you can explore and analyze essential business data such as:
 
 - Retrieve and clean employee data  
 - Generate insights from salary, position, and performance metrics  
-- Support HR operations like promotion analysis, turnover tracking, and compensation benchmarking  
+- Support HR operations like employee role distribution, salary analysis, and attendance tracking.
 
 ### 1. Join employee demographics with salary
 
