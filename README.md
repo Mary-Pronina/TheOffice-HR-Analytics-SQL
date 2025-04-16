@@ -45,9 +45,7 @@ This fictional company structure is based on Dunder Mifflin Paper Company from "
   </tr>
 </table>
 
- The full SQL script used to create and populate the database tables can be found below.  
-It includes `CREATE TABLE`, `INSERT`, and `UPDATE` statements for the fictional Dunder Mifflin HR system:
-
+You can find the full SQL script used to set up the Dunder Mifflin HR database, including CREATE TABLE, INSERT, and UPDATE statements, in the following file: [dunder_mifflin_db_structure.sql](https://github.com/your-username/your-repo/blob/main/dunder_mifflin_db_structure.sql)
 
  
 I tried to imagine how the HR department at Dunder Mifflin might structure and manage their internal data, using what we know from the show as a creative base. This fictional-but-grounded setup offers a more engaging way to practice SQL, while applying techniques that would be valuable in any real-world HR analytics project.
