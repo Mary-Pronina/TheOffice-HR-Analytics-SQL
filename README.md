@@ -46,7 +46,7 @@ This fictional company structure is based on Dunder Mifflin Paper Company from "
 </table>
 
  The full SQL script used to create and populate the database tables can be found below.  
-It includes `CREATE TABLE`, `INSERT`, and `UPDATE` statements for the fictional Dunder Mifflin HR system.
+It includes `CREATE TABLE`, `INSERT`, and `UPDATE` statements for the fictional Dunder Mifflin HR system:
 
 
  
