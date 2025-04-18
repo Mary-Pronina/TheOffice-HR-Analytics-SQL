@@ -286,3 +286,5 @@ You can find the full SQL script containing all analytical queries used for expl
 This project offers a foundational SQL toolkit for HR and business analysis. From salary analysis and employee classification to department headcount and attrition tracking, the queries reflect real-world scenarios an analyst may face in an HR environment.
 
 Whether you're building your portfolio, studying for an interview, or learning SQL through storytelling, this Dunder Mifflin database provides a fun and practical learning opportunity.
+
+![A Picture of Holly and Michael](https://github.com/user-attachments/assets/f894e053-644d-449a-a5ed-c5bdf6fdee33)
