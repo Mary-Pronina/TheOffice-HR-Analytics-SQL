@@ -279,6 +279,9 @@ WHERE
 ```
 ![Retrieve employees with salary around 50,000 in the Human Resources department](https://github.com/user-attachments/assets/551f49e5-c605-4ee3-b176-349c56c8e00b)
 
+You can find the full SQL script containing all analytical queries used for exploring the Dunder Mifflin HR database—ranging from salary breakdowns and employee classifications to department headcounts and attendance tracking—in the following file:
+
+
 ## Conclusion
 This project offers a foundational SQL toolkit for HR and business analysis. From salary analysis and employee classification to department headcount and attrition tracking, the queries reflect real-world scenarios an analyst may face in an HR environment.
 
